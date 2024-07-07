@@ -11,6 +11,5 @@ func main() {
     fmt.Print("Enter text: ")
     input, _ := reader.ReadString('\n')
     fmt.Println("You entered:", input)
-    fmt.Println("H")
 }
 
